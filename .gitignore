@@ -1,0 +1,42 @@
+# Virtual environment folders
+venv/
+venv310/
+.env/
+.env.bak/
+.venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and outputs
+*.log
+*.out
+*.tmp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Test reports
+htmlcov/
+.coverage
+.tox/
+.nox/
+.pytest_cache/
+
+# Packaging
+*.egg
+*.egg-info/
+dist/
+build/
